@@ -1,0 +1,6 @@
+CM arch: 4
+Netlist: 
+R139 ( net68 net154)  R=6.5E5
+T140 ( net154 net152 0 0)  nfet  L=5.54E-6 W=7.14E-6
+T141 ( net153 net152 0 0)  nfet  L=5.54E-6 W=7.14E-6
+T142 ( vdd! net154 net152 0)  nfet  L=5.54E-6 W=7.14E-6

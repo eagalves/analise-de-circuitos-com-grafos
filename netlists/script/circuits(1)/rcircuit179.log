@@ -1,0 +1,5 @@
+CM arch: 2
+Netlist: 
+R224 ( net25 net17)  R=3.9E3
+T225 ( net17 net17 vdd! vdd!)  pfet  L=7.74E-6 W=0.62E-6
+T226 ( net23 net17 vdd! vdd!)  pfet  L=7.74E-6 W=0.62E-6

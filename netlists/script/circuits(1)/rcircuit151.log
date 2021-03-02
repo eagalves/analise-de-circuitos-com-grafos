@@ -1,0 +1,6 @@
+CM arch: 3
+Netlist: 
+R552 ( net16 net7)  R=1.5E4
+T553 ( net7 net43 vdd! vdd!)  pfet  L=8.24E-6 W=7.24E-6
+T554 ( net11 net43 vdd! vdd!)  pfet  L=8.24E-6 W=7.24E-6
+T555 ( net42 net7 net11 vdd!)  pfet  L=8.24E-6 W=7.24E-6

@@ -1,0 +1,5 @@
+CM arch: 2
+Netlist: 
+R60 ( net132 net66)  R=9.4E0
+T61 ( net66 net66 vdd! vdd!)  pfet  L=9.33E-6 W=3.93E-6
+T62 ( net116 net66 vdd! vdd!)  pfet  L=9.33E-6 W=3.93E-6

@@ -1,0 +1,7 @@
+CM arch: 5
+Netlist: 
+R360 ( net19 net17)  R=3.4E5
+T361 ( net17 net17 net5 0)  nfet  L=5.29E-6 W=5.56E-6
+T362 ( net5 net40 0 0)  nfet  L=5.29E-6 W=5.56E-6
+T363 ( net40 net40 0 0)  nfet  L=5.29E-6 W=5.56E-6
+T364 ( net46 net17 net40 0)  nfet  L=5.29E-6 W=5.56E-6

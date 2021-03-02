@@ -1,0 +1,5 @@
+CM arch: 2
+Netlist: 
+R92 ( net12 net8)  R=8.8E6
+T93 ( net8 net8 vdd! vdd!)  pfet  L=1.95E-6 W=2.71E-6
+T94 ( net3 net8 vdd! vdd!)  pfet  L=1.95E-6 W=2.71E-6

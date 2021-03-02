@@ -1,0 +1,5 @@
+CM arch: 1
+Netlist: 
+T471 ( net163 net163 vdd! vdd!)  pfet  L=4.64E-6 W=9.86E-6
+T472 ( net128 net163 vdd! vdd!)  pfet  L=4.64E-6 W=9.86E-6
+R473 ( net128 net16)  R=3.9E1

@@ -1,0 +1,6 @@
+CM arch: 4
+Netlist: 
+R401 ( net39 net50)  R=5.7E4
+T402 ( net50 net274 0 0)  nfet  L=6.50E-6 W=0.83E-6
+T403 ( 0 net274 0 0)  nfet  L=6.50E-6 W=0.83E-6
+T404 ( vdd! net50 net274 0)  nfet  L=6.50E-6 W=0.83E-6

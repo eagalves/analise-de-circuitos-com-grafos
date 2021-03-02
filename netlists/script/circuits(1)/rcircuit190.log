@@ -1,0 +1,7 @@
+CM arch: 5
+Netlist: 
+R449 ( net3 net8)  R=1.7E5
+T450 ( net8 net8 net20 0)  nfet  L=4.21E-6 W=4.36E-6
+T451 ( net20 net6 0 0)  nfet  L=4.21E-6 W=4.36E-6
+T452 ( net6 net6 0 0)  nfet  L=4.21E-6 W=4.36E-6
+T453 ( net13 net8 net6 0)  nfet  L=4.21E-6 W=4.36E-6

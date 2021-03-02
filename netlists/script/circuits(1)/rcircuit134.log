@@ -1,0 +1,6 @@
+CM arch: 3
+Netlist: 
+R131 ( net30 net179)  R=3.5E3
+T132 ( net179 net19 vdd! vdd!)  pfet  L=9.29E-6 W=0.13E-6
+T133 ( net73 net19 vdd! vdd!)  pfet  L=9.29E-6 W=0.13E-6
+T134 ( net129 net179 net73 vdd!)  pfet  L=9.29E-6 W=0.13E-6

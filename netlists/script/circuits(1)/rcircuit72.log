@@ -1,0 +1,12 @@
+CM arch: 5
+Netlist: 
+R138 ( net22 net2)  R=5.7E1
+T139 ( net2 net2 net47 0)  nfet  L=9.68E-6 W=2.39E-6
+T140 ( net47 net30 0 0)  nfet  L=9.68E-6 W=2.39E-6
+T141 ( net30 net30 0 0)  nfet  L=9.68E-6 W=2.39E-6
+T142 ( net34 net2 net30 0)  nfet  L=9.68E-6 W=2.39E-6
+CM arch: 1
+Netlist: 
+T150 ( net62 net62 0 0)  nfet  L=4.52E-6 W=4.58E-6
+T151 ( net38 net62 0 0)  nfet  L=4.52E-6 W=4.58E-6
+R152 ( net38 net22)  R=3.8E1

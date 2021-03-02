@@ -1,0 +1,6 @@
+CM arch: 3
+Netlist: 
+R306 ( net61 net18)  R=9.4E2
+T307 ( net18 net67 vdd! vdd!)  pfet  L=1.28E-6 W=4.51E-6
+T308 ( net69 net67 vdd! vdd!)  pfet  L=1.28E-6 W=4.51E-6
+T309 ( net279 net18 net69 vdd!)  pfet  L=1.28E-6 W=4.51E-6

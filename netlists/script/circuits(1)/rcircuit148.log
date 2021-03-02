@@ -1,0 +1,7 @@
+CM arch: 5
+Netlist: 
+R464 ( net32 net33)  R=6.1E1
+T465 ( net33 net33 net35 0)  nfet  L=9.75E-6 W=7.89E-6
+T466 ( net35 net23 0 0)  nfet  L=9.75E-6 W=7.89E-6
+T467 ( net23 net23 0 0)  nfet  L=9.75E-6 W=7.89E-6
+T468 ( net71 net33 net23 0)  nfet  L=9.75E-6 W=7.89E-6
