@@ -3,7 +3,7 @@
 """
 Created on Fri Mar  1 15:59:28 2019
 
-@author: fred/evandro
+@author: fred
 """
 
 from collections import namedtuple

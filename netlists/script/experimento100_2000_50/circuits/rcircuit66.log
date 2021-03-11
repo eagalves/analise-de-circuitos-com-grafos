@@ -1,0 +1,287 @@
+CM arch: 2
+Netlist: 
+R2 ( net353 net416)  R=3.2E6
+T3 ( net416 net416 vdd! vdd!)  pfet  L=0.58E-6 W=3.16E-6
+T4 ( net290 net416 vdd! vdd!)  pfet  L=0.58E-6 W=3.16E-6
+CM arch: 4
+Netlist: 
+R7 ( net462 net501)  R=8.7E3
+T8 ( net501 net711 vdd! vdd!)  pfet  L=2.48E-6 W=1.65E-6
+T9 ( net500 net711 vdd! vdd!)  pfet  L=2.48E-6 W=1.65E-6
+T10 ( 0 net501 net711 vdd!)  pfet  L=2.48E-6 W=1.65E-6
+CM arch: 1
+Netlist: 
+T14 ( net66 net66 0 0)  nfet  L=0.12E-6 W=3.81E-6
+T15 ( net246 net66 0 0)  nfet  L=0.12E-6 W=3.81E-6
+R16 ( net246 net302)  R=9.1E2
+CM arch: 4
+Netlist: 
+R19 ( net350 net348)  R=9.1E5
+T20 ( net348 net94 0 0)  nfet  L=9.98E-6 W=8.81E-6
+T21 ( net163 net94 0 0)  nfet  L=9.98E-6 W=8.81E-6
+T22 ( vdd! net348 net94 0)  nfet  L=9.98E-6 W=8.81E-6
+CM arch: 5
+Netlist: 
+R24 ( net70 net207)  R=5.5E4
+T25 ( net207 net207 net596 vdd!)  pfet  L=3.76E-6 W=1.34E-6
+T26 ( net596 net157 vdd! vdd!)  pfet  L=3.76E-6 W=1.34E-6
+T27 ( net157 net157 vdd! vdd!)  pfet  L=3.76E-6 W=1.34E-6
+T28 ( net168 net207 net157 vdd!)  pfet  L=3.76E-6 W=1.34E-6
+CM arch: 3
+Netlist: 
+R30 ( net201 net602)  R=8.8E6
+T31 ( net602 net184 vdd! vdd!)  pfet  L=5.90E-6 W=7.67E-6
+T32 ( net718 net184 vdd! vdd!)  pfet  L=5.90E-6 W=7.67E-6
+T33 ( net199 net602 net718 vdd!)  pfet  L=5.90E-6 W=7.67E-6
+CM arch: 5
+Netlist: 
+R35 ( 0 net116)  R=9.4E5
+T36 ( net116 net116 net205 0)  nfet  L=6.24E-6 W=1.62E-6
+T37 ( net205 net20 0 0)  nfet  L=6.24E-6 W=1.62E-6
+T38 ( net20 net20 0 0)  nfet  L=6.24E-6 W=1.62E-6
+T39 ( net182 net116 net20 0)  nfet  L=6.24E-6 W=1.62E-6
+CM arch: 2
+Netlist: 
+R42 ( net218 net39)  R=5.1E0
+T43 ( net39 net39 0 0)  nfet  L=7.84E-6 W=9.30E-6
+T44 ( net255 net39 0 0)  nfet  L=7.84E-6 W=9.30E-6
+CM arch: 4
+Netlist: 
+R48 ( net504 net675)  R=6.5E5
+T49 ( net675 net447 vdd! vdd!)  pfet  L=6.36E-6 W=6.40E-6
+T50 ( net324 net447 vdd! vdd!)  pfet  L=6.36E-6 W=6.40E-6
+T51 ( 0 net675 net447 vdd!)  pfet  L=6.36E-6 W=6.40E-6
+CM arch: 1
+Netlist: 
+T54 ( net194 net194 vdd! vdd!)  pfet  L=7.83E-6 W=9.99E-6
+T55 ( net218 net194 vdd! vdd!)  pfet  L=7.83E-6 W=9.99E-6
+R56 ( net218 net340)  R=3.0E4
+CM arch: 4
+Netlist: 
+R59 ( net155 net453)  R=4.9E4
+T60 ( net453 net363 vdd! vdd!)  pfet  L=0.51E-6 W=2.98E-6
+T61 ( net356 net363 vdd! vdd!)  pfet  L=0.51E-6 W=2.98E-6
+T62 ( 0 net453 net363 vdd!)  pfet  L=0.51E-6 W=2.98E-6
+CM arch: 1
+Netlist: 
+T64 ( net235 net235 0 0)  nfet  L=1.45E-6 W=9.41E-6
+T65 ( net258 net235 0 0)  nfet  L=1.45E-6 W=9.41E-6
+R66 ( net258 net615)  R=0.8E5
+CM arch: 5
+Netlist: 
+R68 ( net650 net64)  R=2.0E0
+T69 ( net64 net64 net560 0)  nfet  L=9.65E-6 W=6.80E-6
+T70 ( net560 net11 0 0)  nfet  L=9.65E-6 W=6.80E-6
+T71 ( net11 net11 0 0)  nfet  L=9.65E-6 W=6.80E-6
+T72 ( net369 net64 net11 0)  nfet  L=9.65E-6 W=6.80E-6
+CM arch: 2
+Netlist: 
+R77 ( net674 net315)  R=4.9E6
+T78 ( net315 net315 vdd! vdd!)  pfet  L=4.88E-6 W=1.32E-6
+T79 ( net671 net315 vdd! vdd!)  pfet  L=4.88E-6 W=1.32E-6
+CM arch: 2
+Netlist: 
+R81 ( net141 net664)  R=4.0E1
+T82 ( net664 net664 0 0)  nfet  L=4.96E-6 W=0.64E-6
+T83 ( net286 net664 0 0)  nfet  L=4.96E-6 W=0.64E-6
+CM arch: 5
+Netlist: 
+R85 ( net194 net322)  R=9.1E1
+T86 ( net322 net322 net517 0)  nfet  L=7.69E-6 W=7.86E-6
+T87 ( net517 net623 0 0)  nfet  L=7.69E-6 W=7.86E-6
+T88 ( net623 net623 0 0)  nfet  L=7.69E-6 W=7.86E-6
+T89 ( net292 net322 net623 0)  nfet  L=7.69E-6 W=7.86E-6
+CM arch: 3
+Netlist: 
+R91 ( net424 net578)  R=2.4E0
+T92 ( net578 net445 0 0)  nfet  L=1.22E-6 W=3.04E-6
+T93 ( net523 net445 0 0)  nfet  L=1.22E-6 W=3.04E-6
+T94 ( net511 net578 net523 0)  nfet  L=1.22E-6 W=3.04E-6
+CM arch: 1
+Netlist: 
+T96 ( net133 net133 vdd! vdd!)  pfet  L=2.92E-6 W=0.82E-6
+T97 ( net586 net133 vdd! vdd!)  pfet  L=2.92E-6 W=0.82E-6
+R98 ( net586 net262)  R=6.8E0
+CM arch: 5
+Netlist: 
+R100 ( net85 net573)  R=8.6E3
+T101 ( net573 net573 net444 0)  nfet  L=4.89E-6 W=3.32E-6
+T102 ( net444 net520 0 0)  nfet  L=4.89E-6 W=3.32E-6
+T103 ( net520 net520 0 0)  nfet  L=4.89E-6 W=3.32E-6
+T104 ( net212 net573 net520 0)  nfet  L=4.89E-6 W=3.32E-6
+CM arch: 1
+Netlist: 
+T107 ( net271 net271 0 0)  nfet  L=9.93E-6 W=9.89E-6
+T108 ( net437 net271 0 0)  nfet  L=9.93E-6 W=9.89E-6
+R109 ( net437 net526)  R=1.3E0
+CM arch: 4
+Netlist: 
+R111 ( net599 net323)  R=4.3E6
+T112 ( net323 net102 vdd! vdd!)  pfet  L=9.65E-6 W=9.44E-6
+T113 ( net474 net102 vdd! vdd!)  pfet  L=9.65E-6 W=9.44E-6
+T114 ( 0 net323 net102 vdd!)  pfet  L=9.65E-6 W=9.44E-6
+CM arch: 3
+Netlist: 
+R117 ( net330 net456)  R=3.8E0
+T118 ( net456 net428 0 0)  nfet  L=9.33E-6 W=7.16E-6
+T119 ( net80 net428 0 0)  nfet  L=9.33E-6 W=7.16E-6
+T120 ( net468 net456 net80 0)  nfet  L=9.33E-6 W=7.16E-6
+CM arch: 3
+Netlist: 
+R122 ( net78 net608)  R=1.8E3
+T123 ( net608 net128 0 0)  nfet  L=6.60E-6 W=0.64E-6
+T124 ( net124 net128 0 0)  nfet  L=6.60E-6 W=0.64E-6
+T125 ( net450 net608 net124 0)  nfet  L=6.60E-6 W=0.64E-6
+CM arch: 1
+Netlist: 
+T127 ( net226 net226 vdd! vdd!)  pfet  L=1.29E-6 W=0.44E-6
+T128 ( net375 net226 vdd! vdd!)  pfet  L=1.29E-6 W=0.44E-6
+R129 ( net375 net290)  R=1.4E1
+CM arch: 4
+Netlist: 
+R131 ( net330 net142)  R=8.8E2
+T132 ( net142 net619 vdd! vdd!)  pfet  L=5.42E-6 W=4.16E-6
+T133 ( 0 net619 vdd! vdd!)  pfet  L=5.42E-6 W=4.16E-6
+T134 ( 0 net142 net619 vdd!)  pfet  L=5.42E-6 W=4.16E-6
+CM arch: 3
+Netlist: 
+R137 ( net231 net362)  R=4.5E6
+T138 ( net362 net653 vdd! vdd!)  pfet  L=2.01E-6 W=9.97E-6
+T139 ( net527 net653 vdd! vdd!)  pfet  L=2.01E-6 W=9.97E-6
+T140 ( net230 net362 net527 vdd!)  pfet  L=2.01E-6 W=9.97E-6
+CM arch: 2
+Netlist: 
+R142 ( net470 net509)  R=2.0E0
+T143 ( net509 net509 vdd! vdd!)  pfet  L=1.80E-6 W=5.55E-6
+T144 ( 0 net509 vdd! vdd!)  pfet  L=1.80E-6 W=5.55E-6
+CM arch: 3
+Netlist: 
+R146 ( net490 net638)  R=9.7E1
+T147 ( net638 net526 vdd! vdd!)  pfet  L=3.67E-6 W=2.80E-6
+T148 ( net575 net526 vdd! vdd!)  pfet  L=3.67E-6 W=2.80E-6
+T149 ( net180 net638 net575 vdd!)  pfet  L=3.67E-6 W=2.80E-6
+CM arch: 4
+Netlist: 
+R151 ( net329 net203)  R=0.3E6
+T152 ( net203 net353 vdd! vdd!)  pfet  L=0.87E-6 W=9.82E-6
+T153 ( net182 net353 vdd! vdd!)  pfet  L=0.87E-6 W=9.82E-6
+T154 ( 0 net203 net353 vdd!)  pfet  L=0.87E-6 W=9.82E-6
+CM arch: 3
+Netlist: 
+R156 ( net122 net153)  R=5.0E0
+T157 ( net153 net298 vdd! vdd!)  pfet  L=4.58E-6 W=5.27E-6
+T158 ( net351 net298 vdd! vdd!)  pfet  L=4.58E-6 W=5.27E-6
+T159 ( net191 net153 net351 vdd!)  pfet  L=4.58E-6 W=5.27E-6
+CM arch: 2
+Netlist: 
+R162 ( net659 net702)  R=5.3E3
+T163 ( net702 net702 vdd! vdd!)  pfet  L=7.23E-6 W=8.01E-6
+T164 ( net546 net702 vdd! vdd!)  pfet  L=7.23E-6 W=8.01E-6
+CM arch: 4
+Netlist: 
+R168 ( net311 net99)  R=3.6E2
+T169 ( net99 net385 0 0)  nfet  L=1.32E-6 W=0.26E-6
+T170 ( 0 net385 0 0)  nfet  L=1.32E-6 W=0.26E-6
+T171 ( vdd! net99 net385 0)  nfet  L=1.32E-6 W=0.26E-6
+CM arch: 2
+Netlist: 
+R173 ( net590 net466)  R=9.7E5
+T174 ( net466 net466 0 0)  nfet  L=3.90E-6 W=1.69E-6
+T175 ( net54 net466 0 0)  nfet  L=3.90E-6 W=1.69E-6
+CM arch: 4
+Netlist: 
+R181 ( net317 net546)  R=7.7E3
+T182 ( net546 net74 vdd! vdd!)  pfet  L=1.69E-6 W=4.96E-6
+T183 ( net72 net74 vdd! vdd!)  pfet  L=1.69E-6 W=4.96E-6
+T184 ( 0 net546 net74 vdd!)  pfet  L=1.69E-6 W=4.96E-6
+CM arch: 3
+Netlist: 
+R186 ( net570 net377)  R=5.2E0
+T187 ( net377 net352 0 0)  nfet  L=4.14E-6 W=3.86E-6
+T188 ( net406 net352 0 0)  nfet  L=4.14E-6 W=3.86E-6
+T189 ( vdd! net377 net406 0)  nfet  L=4.14E-6 W=3.86E-6
+CM arch: 4
+Netlist: 
+R194 ( net432 net691)  R=3.8E5
+T195 ( net691 net512 0 0)  nfet  L=5.84E-6 W=6.65E-6
+T196 ( net561 net512 0 0)  nfet  L=5.84E-6 W=6.65E-6
+T197 ( vdd! net691 net512 0)  nfet  L=5.84E-6 W=6.65E-6
+CM arch: 3
+Netlist: 
+R200 ( net694 net34)  R=0.6E5
+T201 ( net34 net396 0 0)  nfet  L=5.44E-6 W=9.63E-6
+T202 ( net624 net396 0 0)  nfet  L=5.44E-6 W=9.63E-6
+T203 ( net701 net34 net624 0)  nfet  L=5.44E-6 W=9.63E-6
+CM arch: 4
+Netlist: 
+R208 ( net630 net170)  R=3.9E4
+T209 ( net170 net387 0 0)  nfet  L=4.35E-6 W=1.52E-6
+T210 ( net529 net387 0 0)  nfet  L=4.35E-6 W=1.52E-6
+T211 ( vdd! net170 net387 0)  nfet  L=4.35E-6 W=1.52E-6
+CM arch: 3
+Netlist: 
+R215 ( net160 net532)  R=1.8E1
+T216 ( net532 net138 0 0)  nfet  L=7.76E-6 W=0.34E-6
+T217 ( net554 net138 0 0)  nfet  L=7.76E-6 W=0.34E-6
+T218 ( net589 net532 net554 0)  nfet  L=7.76E-6 W=0.34E-6
+CM arch: 1
+Netlist: 
+T220 ( net333 net333 vdd! vdd!)  pfet  L=1.12E-6 W=9.77E-6
+T221 ( net154 net333 vdd! vdd!)  pfet  L=1.12E-6 W=9.77E-6
+R222 ( net154 0)  R=6.7E4
+CM arch: 4
+Netlist: 
+R224 ( net43 net30)  R=5.5E2
+T225 ( net30 net559 0 0)  nfet  L=0.52E-6 W=4.47E-6
+T226 ( net524 net559 0 0)  nfet  L=0.52E-6 W=4.47E-6
+T227 ( vdd! net30 net559 0)  nfet  L=0.52E-6 W=4.47E-6
+CM arch: 2
+Netlist: 
+R229 ( net476 net66)  R=0.7E1
+T230 ( net66 net66 0 0)  nfet  L=0.28E-6 W=5.23E-6
+T231 ( net191 net66 0 0)  nfet  L=0.28E-6 W=5.23E-6
+CM arch: 2
+Netlist: 
+R233 ( net186 net206)  R=9.5E5
+T234 ( net206 net206 vdd! vdd!)  pfet  L=3.23E-6 W=4.05E-6
+T235 ( net235 net206 vdd! vdd!)  pfet  L=3.23E-6 W=4.05E-6
+CM arch: 4
+Netlist: 
+R237 ( net148 net574)  R=2.8E0
+T238 ( net574 net367 vdd! vdd!)  pfet  L=4.07E-6 W=7.60E-6
+T239 ( net391 net367 vdd! vdd!)  pfet  L=4.07E-6 W=7.60E-6
+T240 ( 0 net574 net367 vdd!)  pfet  L=4.07E-6 W=7.60E-6
+CM arch: 1
+Netlist: 
+T244 ( net109 net109 0 0)  nfet  L=3.92E-6 W=7.88E-6
+T245 ( net127 net109 0 0)  nfet  L=3.92E-6 W=7.88E-6
+R246 ( net127 net410)  R=9.2E4
+CM arch: 4
+Netlist: 
+R248 ( net519 net53)  R=6.2E3
+T249 ( net53 net42 0 0)  nfet  L=6.92E-6 W=9.86E-6
+T250 ( net592 net42 0 0)  nfet  L=6.92E-6 W=9.86E-6
+T251 ( vdd! net53 net42 0)  nfet  L=6.92E-6 W=9.86E-6
+CM arch: 5
+Netlist: 
+R253 ( net117 net148)  R=8.0E4
+T254 ( net148 net148 net521 0)  nfet  L=2.11E-6 W=2.61E-6
+T255 ( net521 net542 0 0)  nfet  L=2.11E-6 W=2.61E-6
+T256 ( net542 net542 0 0)  nfet  L=2.11E-6 W=2.61E-6
+T257 ( net310 net148 net542 0)  nfet  L=2.11E-6 W=2.61E-6
+CM arch: 2
+Netlist: 
+R262 ( net397 net26)  R=6.9E5
+T263 ( net26 net26 0 0)  nfet  L=9.52E-6 W=7.39E-6
+T264 ( net152 net26 0 0)  nfet  L=9.52E-6 W=7.39E-6
+CM arch: 1
+Netlist: 
+T266 ( net358 net358 vdd! vdd!)  pfet  L=8.30E-6 W=2.22E-6
+T267 ( net350 net358 vdd! vdd!)  pfet  L=8.30E-6 W=2.22E-6
+R268 ( net350 net666)  R=6.5E3
+CM arch: 3
+Netlist: 
+R270 ( net392 net485)  R=8.3E3
+T271 ( net485 net679 vdd! vdd!)  pfet  L=5.41E-6 W=4.01E-6
+T272 ( net496 net679 vdd! vdd!)  pfet  L=5.41E-6 W=4.01E-6
+T273 ( net476 net485 net496 vdd!)  pfet  L=5.41E-6 W=4.01E-6

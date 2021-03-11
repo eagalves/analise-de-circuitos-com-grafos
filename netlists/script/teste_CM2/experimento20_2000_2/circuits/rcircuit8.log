@@ -1,0 +1,12 @@
+CM arch: 3
+Netlist: 
+R1 ( net25 net24)  R=7.3E2
+T2 ( net24 net13 vdd! vdd!)  pfet  L=5.70E-6 W=7.93E-6
+T3 ( net49 net13 vdd! vdd!)  pfet  L=5.70E-6 W=7.93E-6
+T4 ( net44 net24 net49 vdd!)  pfet  L=5.70E-6 W=7.93E-6
+CM arch: 3
+Netlist: 
+R6 ( net51 net46)  R=6.7E5
+T7 ( net46 net35 0 0)  nfet  L=2.23E-6 W=8.27E-6
+T8 ( net11 net35 0 0)  nfet  L=2.23E-6 W=8.27E-6
+T9 ( net54 net46 net11 0)  nfet  L=2.23E-6 W=8.27E-6
